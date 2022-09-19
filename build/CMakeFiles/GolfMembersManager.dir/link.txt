@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/GolfMembersManager.dir/src/main.cpp.o CMakeFiles/GolfMembersManager.dir/src/app/Listener/Listener.cpp.o CMakeFiles/GolfMembersManager.dir/src/hw/rfid/mfrc522.cpp.o CMakeFiles/GolfMembersManager.dir/src/hw/spi/SPI.cpp.o -o GolfMembersManager  -lwiringPi 

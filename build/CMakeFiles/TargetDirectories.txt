@@ -1,0 +1,3 @@
+/home/ubuntu/project/GolfMembersManager/build/CMakeFiles/GolfMembersManager.dir
+/home/ubuntu/project/GolfMembersManager/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/project/GolfMembersManager/build/CMakeFiles/rebuild_cache.dir
